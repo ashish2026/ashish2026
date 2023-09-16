@@ -42,11 +42,13 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2026&show_icons=true&locale=en&layout=compact" alt="ashish2026" />
 </div>
-
+<br>
+<br>
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=ashish2026&show_icons=true&locale=en" alt="ashish2026" />
 </div>
-
+<br>
+<br>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="ashish2026" />
 </div>
