@@ -6,7 +6,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashish2026&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2026" />
  </p>
-
+<br>
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -17,6 +18,8 @@
 <a href="https://www.youtube.com/@eulerashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eulerashish" height="45" width="60" /></a>
 <a href="https://codeforces.com/profile/ashish.adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashish.adhikari" height="45" width="60" /></a>
 </p>
+<br>
+<br>
 
 <h3 align="center">Languages I know</h3>
 
@@ -39,6 +42,7 @@
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
 </p>
 
+<br>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2026&show_icons=true&locale=en&layout=compact" alt="ashish2026" />
 </div>
