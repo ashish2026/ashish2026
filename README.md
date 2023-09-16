@@ -7,11 +7,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashish2026&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2026" />
  </p>
 
-<h2 align="center">🏆 Github Profile Trophy</h2></a>
-<p align="center"> <a align="center" href="https://github.com/ashish2026/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ashish2026&column=8&theme=gruvbox&no-frame=true"/>
-</a> 
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
