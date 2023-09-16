@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2026&show_icons=true&locale=en" alt="ashish2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026&" alt="ashish2026" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026&" alt="ashish2026" /></p>
 
 
 
